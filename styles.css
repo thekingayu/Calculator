@@ -29,3 +29,8 @@ h1 {
   font-weight: bolder !important;
   margin-top: 15px !important;
 }
+
+.container{
+  max-width: 350px;
+  margin: 10vh auto 0 auto;
+}
