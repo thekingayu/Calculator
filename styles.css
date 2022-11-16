@@ -34,3 +34,8 @@ h1 {
   max-width: 350px;
   margin: 10vh auto 0 auto;
 }
+input[type=button]:hover {
+  background: rgb(199,15,15);
+  background: linear-gradient(90deg, rgba(199,15,15,1) 0%, rgba(139,14,78,1) 100%);
+  transition: 0.1s ease-in-out;
+}
